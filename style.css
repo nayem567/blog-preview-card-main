@@ -3,7 +3,7 @@
 /* colors */
 :root{
     --Yellow: #f4d04e;
-    --Grey: #808080;
+    --Grey: #595959;
 }
 
 html,body{
@@ -91,16 +91,17 @@ footer{
 
 /* attribute */
 .attribution{
-    font-size: .8rem;
     background-color: #fff;
     color: #000;
     text-align: center;
+    font-size: 11px;
 }
 .attribution p{
     margin-bottom: 0;
 }
 .attribution a{
     text-decoration: none;
+    color: hsl(228, 45%, 44%);
 
 }
 .attribution p a{
